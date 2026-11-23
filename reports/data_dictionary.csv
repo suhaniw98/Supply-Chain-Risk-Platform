@@ -1,0 +1,28 @@
+dataset,column_name,data_type,description
+products.csv,product_id,str,Unique identifier of the product
+products.csv,product_name,str,Name of the product
+products.csv,category,str,Category to which the product belongs
+products.csv,unit_cost,int64,Cost of one unit of the product
+inventory.csv,inventory_id,str,Unique identifier of the inventory record
+inventory.csv,product_id,str,Identifier of the product
+inventory.csv,location_id,str,Identifier of the inventory location
+inventory.csv,quantity_available,int64,Quantity of product currently available
+sales.csv,product_id,str,Identifier of the sold product
+sales.csv,sale_date,str,Date on which the sale occurred
+sales.csv,quantity_sold,int64,Quantity of product sold
+purchase_orders.csv,order_id,str,Unique identifier of the purchase order
+purchase_orders.csv,supplier_id,str,Identifier of the supplier
+purchase_orders.csv,product_id,str,Identifier of the ordered product
+purchase_orders.csv,quantity,int64,Quantity requested in the purchase order
+purchase_orders.csv,order_date,str,Date on which the order was placed
+purchase_orders.csv,expected_date,str,Expected delivery date of the order
+purchase_orders.csv,status,str,Current status of the purchase order
+shipments.csv,shipment_id,str,Unique identifier of the shipment
+shipments.csv,order_id,str,Identifier of the related purchase order
+shipments.csv,dispatch_date,str,Date on which the shipment was dispatched
+shipments.csv,delivery_date,str,Date on which the shipment was delivered
+shipments.csv,shipment_status,str,Current status of the shipment
+suppliers.csv,supplier_id,str,Unique identifier of the supplier
+suppliers.csv,supplier_name,str,Name of the supplier
+suppliers.csv,lead_time,int64,Supplier lead time in days
+suppliers.csv,status,str,Current status of the supplier
