@@ -1,0 +1,6 @@
+shipment_id,order_id,dispatch_date,delivery_date,shipment_status
+SH001,PO001,2026-11-02,2026-11-05,Delivered
+SH002,PO002,2026-11-06,,In Transit
+SH003,PO003,2026-11-03,,Delayed
+SH004,PO004,,,Pending
+SH005,PO005,2026-11-09,,In Transit

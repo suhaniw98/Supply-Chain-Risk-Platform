@@ -1,0 +1,6 @@
+order_id,supplier_id,product_id,quantity,order_date,expected_date,status_x,product_name,category,unit_cost,supplier_name,lead_time,status_y
+PO001,S001,P001,50,2026-11-01,2026-11-06,Delivered,Laptop,Electronics,45000,ABC Suppliers,5,Active
+PO002,S002,P002,100,2026-11-05,2026-11-12,In Transit,Mouse,Electronics,500,Global Traders,7,Active
+PO003,S003,P003,40,2026-11-02,2026-11-06,Delayed,Keyboard,Electronics,1200,Reliable Distributors,4,Active
+PO004,S004,P004,25,2026-11-10,2026-11-20,Pending,Office Chair,Furniture,5500,Metro Wholesale,10,Active
+PO005,S005,P005,30,2026-11-08,2026-11-14,In Transit,Desk,Furniture,7000,Prime Logistics,6,Active

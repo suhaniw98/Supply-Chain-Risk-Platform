@@ -1,0 +1,6 @@
+order_id,supplier_id,product_id,quantity,order_date,expected_date,status,shipment_id,dispatch_date,delivery_date,shipment_status,is_overdue,days_overdue,quantity_available,risk_level,suggested_replenishment,alert
+PO001,S001,P001,50,2026-11-01,2026-11-06,Delivered,SH001,2026-11-02,2026-11-05,Delivered,False,0,20,Critical,118,Critical Inventory Risk
+PO002,S002,P002,100,2026-11-05,2026-11-12,In Transit,SH002,2026-11-06,,In Transit,True,8,150,Normal,0,Overdue Shipment
+PO003,S003,P003,40,2026-11-02,2026-11-06,Delayed,SH003,2026-11-03,,Delayed,True,14,45,Normal,54,Overdue Shipment
+PO004,S004,P004,25,2026-11-10,2026-11-20,Pending,SH004,,,Pending,False,0,12,Critical,101,Critical Inventory Risk
+PO005,S005,P005,30,2026-11-08,2026-11-14,In Transit,SH005,2026-11-09,,In Transit,True,6,8,Critical,100,Overdue Shipment

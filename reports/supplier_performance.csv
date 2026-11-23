@@ -1,0 +1,6 @@
+supplier_id,supplier_name,total_orders,delivered_orders,on_time_deliveries,on_time_delivery_rate,delayed_orders,average_transit_days,risk_level
+S001,ABC Suppliers,1,1,1,100.0,0,3.0,Normal
+S002,Global Traders,1,0,0,0.0,0,,Normal
+S003,Reliable Distributors,1,0,0,0.0,1,,Medium
+S004,Metro Wholesale,1,0,0,0.0,0,,Normal
+S005,Prime Logistics,1,0,0,0.0,0,,Normal

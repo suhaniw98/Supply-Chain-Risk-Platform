@@ -1,0 +1,901 @@
+product_id,sale_date,quantity_sold,product_name,category,unit_cost
+P001,2026-08-18,12,Laptop,Electronics,45000
+P001,2026-08-19,5,Laptop,Electronics,45000
+P001,2026-08-20,12,Laptop,Electronics,45000
+P001,2026-08-21,10,Laptop,Electronics,45000
+P001,2026-08-22,15,Laptop,Electronics,45000
+P001,2026-08-23,5,Laptop,Electronics,45000
+P001,2026-08-24,12,Laptop,Electronics,45000
+P001,2026-08-25,8,Laptop,Electronics,45000
+P001,2026-08-26,12,Laptop,Electronics,45000
+P001,2026-08-27,5,Laptop,Electronics,45000
+P001,2026-08-28,5,Laptop,Electronics,45000
+P001,2026-08-29,12,Laptop,Electronics,45000
+P001,2026-08-30,5,Laptop,Electronics,45000
+P001,2026-08-31,8,Laptop,Electronics,45000
+P001,2026-09-01,15,Laptop,Electronics,45000
+P001,2026-09-02,8,Laptop,Electronics,45000
+P001,2026-09-03,10,Laptop,Electronics,45000
+P001,2026-09-04,8,Laptop,Electronics,45000
+P001,2026-09-05,10,Laptop,Electronics,45000
+P001,2026-09-06,12,Laptop,Electronics,45000
+P001,2026-09-07,5,Laptop,Electronics,45000
+P001,2026-09-08,5,Laptop,Electronics,45000
+P001,2026-09-09,5,Laptop,Electronics,45000
+P001,2026-09-10,5,Laptop,Electronics,45000
+P001,2026-09-11,10,Laptop,Electronics,45000
+P001,2026-09-12,12,Laptop,Electronics,45000
+P001,2026-09-13,12,Laptop,Electronics,45000
+P001,2026-09-14,10,Laptop,Electronics,45000
+P001,2026-09-15,10,Laptop,Electronics,45000
+P001,2026-09-16,5,Laptop,Electronics,45000
+P001,2026-09-17,10,Laptop,Electronics,45000
+P001,2026-09-18,5,Laptop,Electronics,45000
+P001,2026-09-19,5,Laptop,Electronics,45000
+P001,2026-09-20,15,Laptop,Electronics,45000
+P001,2026-09-21,8,Laptop,Electronics,45000
+P001,2026-09-22,8,Laptop,Electronics,45000
+P001,2026-09-23,10,Laptop,Electronics,45000
+P001,2026-09-24,15,Laptop,Electronics,45000
+P001,2026-09-25,12,Laptop,Electronics,45000
+P001,2026-09-26,12,Laptop,Electronics,45000
+P001,2026-09-27,10,Laptop,Electronics,45000
+P001,2026-09-28,5,Laptop,Electronics,45000
+P001,2026-09-29,5,Laptop,Electronics,45000
+P001,2026-09-30,5,Laptop,Electronics,45000
+P001,2026-10-01,5,Laptop,Electronics,45000
+P001,2026-10-02,12,Laptop,Electronics,45000
+P001,2026-10-03,8,Laptop,Electronics,45000
+P001,2026-10-04,15,Laptop,Electronics,45000
+P001,2026-10-05,12,Laptop,Electronics,45000
+P001,2026-10-06,15,Laptop,Electronics,45000
+P001,2026-10-07,12,Laptop,Electronics,45000
+P001,2026-10-08,12,Laptop,Electronics,45000
+P001,2026-10-09,12,Laptop,Electronics,45000
+P001,2026-10-10,10,Laptop,Electronics,45000
+P001,2026-10-11,15,Laptop,Electronics,45000
+P001,2026-10-12,12,Laptop,Electronics,45000
+P001,2026-10-13,8,Laptop,Electronics,45000
+P001,2026-10-14,15,Laptop,Electronics,45000
+P001,2026-10-15,5,Laptop,Electronics,45000
+P001,2026-10-16,12,Laptop,Electronics,45000
+P001,2026-10-17,5,Laptop,Electronics,45000
+P001,2026-10-18,8,Laptop,Electronics,45000
+P001,2026-10-19,5,Laptop,Electronics,45000
+P001,2026-10-20,15,Laptop,Electronics,45000
+P001,2026-10-21,8,Laptop,Electronics,45000
+P001,2026-10-22,10,Laptop,Electronics,45000
+P001,2026-10-23,8,Laptop,Electronics,45000
+P001,2026-10-24,8,Laptop,Electronics,45000
+P001,2026-10-25,12,Laptop,Electronics,45000
+P001,2026-10-26,10,Laptop,Electronics,45000
+P001,2026-10-27,8,Laptop,Electronics,45000
+P001,2026-10-28,15,Laptop,Electronics,45000
+P001,2026-10-29,15,Laptop,Electronics,45000
+P001,2026-10-30,5,Laptop,Electronics,45000
+P001,2026-10-31,15,Laptop,Electronics,45000
+P001,2026-11-01,10,Laptop,Electronics,45000
+P001,2026-11-02,10,Laptop,Electronics,45000
+P001,2026-11-03,15,Laptop,Electronics,45000
+P001,2026-11-04,10,Laptop,Electronics,45000
+P001,2026-11-05,12,Laptop,Electronics,45000
+P001,2026-11-06,10,Laptop,Electronics,45000
+P001,2026-11-07,12,Laptop,Electronics,45000
+P001,2026-11-08,15,Laptop,Electronics,45000
+P001,2026-11-09,15,Laptop,Electronics,45000
+P001,2026-11-10,10,Laptop,Electronics,45000
+P001,2026-11-11,10,Laptop,Electronics,45000
+P001,2026-11-12,8,Laptop,Electronics,45000
+P001,2026-11-13,8,Laptop,Electronics,45000
+P001,2026-11-14,10,Laptop,Electronics,45000
+P001,2026-11-15,12,Laptop,Electronics,45000
+P002,2026-08-18,5,Mouse,Electronics,500
+P002,2026-08-19,12,Mouse,Electronics,500
+P002,2026-08-20,10,Mouse,Electronics,500
+P002,2026-08-21,15,Mouse,Electronics,500
+P002,2026-08-22,5,Mouse,Electronics,500
+P002,2026-08-23,12,Mouse,Electronics,500
+P002,2026-08-24,8,Mouse,Electronics,500
+P002,2026-08-25,12,Mouse,Electronics,500
+P002,2026-08-26,5,Mouse,Electronics,500
+P002,2026-08-27,5,Mouse,Electronics,500
+P002,2026-08-28,12,Mouse,Electronics,500
+P002,2026-08-29,5,Mouse,Electronics,500
+P002,2026-08-30,8,Mouse,Electronics,500
+P002,2026-08-31,15,Mouse,Electronics,500
+P002,2026-09-01,8,Mouse,Electronics,500
+P002,2026-09-02,10,Mouse,Electronics,500
+P002,2026-09-03,8,Mouse,Electronics,500
+P002,2026-09-04,10,Mouse,Electronics,500
+P002,2026-09-05,12,Mouse,Electronics,500
+P002,2026-09-06,5,Mouse,Electronics,500
+P002,2026-09-07,5,Mouse,Electronics,500
+P002,2026-09-08,5,Mouse,Electronics,500
+P002,2026-09-09,5,Mouse,Electronics,500
+P002,2026-09-10,10,Mouse,Electronics,500
+P002,2026-09-11,12,Mouse,Electronics,500
+P002,2026-09-12,12,Mouse,Electronics,500
+P002,2026-09-13,10,Mouse,Electronics,500
+P002,2026-09-14,10,Mouse,Electronics,500
+P002,2026-09-15,5,Mouse,Electronics,500
+P002,2026-09-16,10,Mouse,Electronics,500
+P002,2026-09-17,5,Mouse,Electronics,500
+P002,2026-09-18,5,Mouse,Electronics,500
+P002,2026-09-19,15,Mouse,Electronics,500
+P002,2026-09-20,8,Mouse,Electronics,500
+P002,2026-09-21,8,Mouse,Electronics,500
+P002,2026-09-22,10,Mouse,Electronics,500
+P002,2026-09-23,15,Mouse,Electronics,500
+P002,2026-09-24,12,Mouse,Electronics,500
+P002,2026-09-25,12,Mouse,Electronics,500
+P002,2026-09-26,10,Mouse,Electronics,500
+P002,2026-09-27,5,Mouse,Electronics,500
+P002,2026-09-28,5,Mouse,Electronics,500
+P002,2026-09-29,5,Mouse,Electronics,500
+P002,2026-09-30,5,Mouse,Electronics,500
+P002,2026-10-01,12,Mouse,Electronics,500
+P002,2026-10-02,8,Mouse,Electronics,500
+P002,2026-10-03,15,Mouse,Electronics,500
+P002,2026-10-04,12,Mouse,Electronics,500
+P002,2026-10-05,15,Mouse,Electronics,500
+P002,2026-10-06,12,Mouse,Electronics,500
+P002,2026-10-07,12,Mouse,Electronics,500
+P002,2026-10-08,12,Mouse,Electronics,500
+P002,2026-10-09,10,Mouse,Electronics,500
+P002,2026-10-10,15,Mouse,Electronics,500
+P002,2026-10-11,12,Mouse,Electronics,500
+P002,2026-10-12,8,Mouse,Electronics,500
+P002,2026-10-13,15,Mouse,Electronics,500
+P002,2026-10-14,5,Mouse,Electronics,500
+P002,2026-10-15,12,Mouse,Electronics,500
+P002,2026-10-16,5,Mouse,Electronics,500
+P002,2026-10-17,8,Mouse,Electronics,500
+P002,2026-10-18,5,Mouse,Electronics,500
+P002,2026-10-19,15,Mouse,Electronics,500
+P002,2026-10-20,8,Mouse,Electronics,500
+P002,2026-10-21,10,Mouse,Electronics,500
+P002,2026-10-22,8,Mouse,Electronics,500
+P002,2026-10-23,8,Mouse,Electronics,500
+P002,2026-10-24,12,Mouse,Electronics,500
+P002,2026-10-25,10,Mouse,Electronics,500
+P002,2026-10-26,8,Mouse,Electronics,500
+P002,2026-10-27,15,Mouse,Electronics,500
+P002,2026-10-28,15,Mouse,Electronics,500
+P002,2026-10-29,5,Mouse,Electronics,500
+P002,2026-10-30,15,Mouse,Electronics,500
+P002,2026-10-31,10,Mouse,Electronics,500
+P002,2026-11-01,10,Mouse,Electronics,500
+P002,2026-11-02,15,Mouse,Electronics,500
+P002,2026-11-03,10,Mouse,Electronics,500
+P002,2026-11-04,12,Mouse,Electronics,500
+P002,2026-11-05,10,Mouse,Electronics,500
+P002,2026-11-06,12,Mouse,Electronics,500
+P002,2026-11-07,15,Mouse,Electronics,500
+P002,2026-11-08,15,Mouse,Electronics,500
+P002,2026-11-09,10,Mouse,Electronics,500
+P002,2026-11-10,10,Mouse,Electronics,500
+P002,2026-11-11,8,Mouse,Electronics,500
+P002,2026-11-12,8,Mouse,Electronics,500
+P002,2026-11-13,10,Mouse,Electronics,500
+P002,2026-11-14,12,Mouse,Electronics,500
+P002,2026-11-15,12,Mouse,Electronics,500
+P003,2026-08-18,12,Keyboard,Electronics,1200
+P003,2026-08-19,10,Keyboard,Electronics,1200
+P003,2026-08-20,15,Keyboard,Electronics,1200
+P003,2026-08-21,5,Keyboard,Electronics,1200
+P003,2026-08-22,12,Keyboard,Electronics,1200
+P003,2026-08-23,8,Keyboard,Electronics,1200
+P003,2026-08-24,12,Keyboard,Electronics,1200
+P003,2026-08-25,5,Keyboard,Electronics,1200
+P003,2026-08-26,5,Keyboard,Electronics,1200
+P003,2026-08-27,12,Keyboard,Electronics,1200
+P003,2026-08-28,5,Keyboard,Electronics,1200
+P003,2026-08-29,8,Keyboard,Electronics,1200
+P003,2026-08-30,15,Keyboard,Electronics,1200
+P003,2026-08-31,8,Keyboard,Electronics,1200
+P003,2026-09-01,10,Keyboard,Electronics,1200
+P003,2026-09-02,8,Keyboard,Electronics,1200
+P003,2026-09-03,10,Keyboard,Electronics,1200
+P003,2026-09-04,12,Keyboard,Electronics,1200
+P003,2026-09-05,5,Keyboard,Electronics,1200
+P003,2026-09-06,5,Keyboard,Electronics,1200
+P003,2026-09-07,5,Keyboard,Electronics,1200
+P003,2026-09-08,5,Keyboard,Electronics,1200
+P003,2026-09-09,10,Keyboard,Electronics,1200
+P003,2026-09-10,12,Keyboard,Electronics,1200
+P003,2026-09-11,12,Keyboard,Electronics,1200
+P003,2026-09-12,10,Keyboard,Electronics,1200
+P003,2026-09-13,10,Keyboard,Electronics,1200
+P003,2026-09-14,5,Keyboard,Electronics,1200
+P003,2026-09-15,10,Keyboard,Electronics,1200
+P003,2026-09-16,5,Keyboard,Electronics,1200
+P003,2026-09-17,5,Keyboard,Electronics,1200
+P003,2026-09-18,15,Keyboard,Electronics,1200
+P003,2026-09-19,8,Keyboard,Electronics,1200
+P003,2026-09-20,8,Keyboard,Electronics,1200
+P003,2026-09-21,10,Keyboard,Electronics,1200
+P003,2026-09-22,15,Keyboard,Electronics,1200
+P003,2026-09-23,12,Keyboard,Electronics,1200
+P003,2026-09-24,12,Keyboard,Electronics,1200
+P003,2026-09-25,10,Keyboard,Electronics,1200
+P003,2026-09-26,5,Keyboard,Electronics,1200
+P003,2026-09-27,5,Keyboard,Electronics,1200
+P003,2026-09-28,5,Keyboard,Electronics,1200
+P003,2026-09-29,5,Keyboard,Electronics,1200
+P003,2026-09-30,12,Keyboard,Electronics,1200
+P003,2026-10-01,8,Keyboard,Electronics,1200
+P003,2026-10-02,15,Keyboard,Electronics,1200
+P003,2026-10-03,12,Keyboard,Electronics,1200
+P003,2026-10-04,15,Keyboard,Electronics,1200
+P003,2026-10-05,12,Keyboard,Electronics,1200
+P003,2026-10-06,12,Keyboard,Electronics,1200
+P003,2026-10-07,12,Keyboard,Electronics,1200
+P003,2026-10-08,10,Keyboard,Electronics,1200
+P003,2026-10-09,15,Keyboard,Electronics,1200
+P003,2026-10-10,12,Keyboard,Electronics,1200
+P003,2026-10-11,8,Keyboard,Electronics,1200
+P003,2026-10-12,15,Keyboard,Electronics,1200
+P003,2026-10-13,5,Keyboard,Electronics,1200
+P003,2026-10-14,12,Keyboard,Electronics,1200
+P003,2026-10-15,5,Keyboard,Electronics,1200
+P003,2026-10-16,8,Keyboard,Electronics,1200
+P003,2026-10-17,5,Keyboard,Electronics,1200
+P003,2026-10-18,15,Keyboard,Electronics,1200
+P003,2026-10-19,8,Keyboard,Electronics,1200
+P003,2026-10-20,10,Keyboard,Electronics,1200
+P003,2026-10-21,8,Keyboard,Electronics,1200
+P003,2026-10-22,8,Keyboard,Electronics,1200
+P003,2026-10-23,12,Keyboard,Electronics,1200
+P003,2026-10-24,10,Keyboard,Electronics,1200
+P003,2026-10-25,8,Keyboard,Electronics,1200
+P003,2026-10-26,15,Keyboard,Electronics,1200
+P003,2026-10-27,15,Keyboard,Electronics,1200
+P003,2026-10-28,5,Keyboard,Electronics,1200
+P003,2026-10-29,15,Keyboard,Electronics,1200
+P003,2026-10-30,10,Keyboard,Electronics,1200
+P003,2026-10-31,10,Keyboard,Electronics,1200
+P003,2026-11-01,15,Keyboard,Electronics,1200
+P003,2026-11-02,10,Keyboard,Electronics,1200
+P003,2026-11-03,12,Keyboard,Electronics,1200
+P003,2026-11-04,10,Keyboard,Electronics,1200
+P003,2026-11-05,12,Keyboard,Electronics,1200
+P003,2026-11-06,15,Keyboard,Electronics,1200
+P003,2026-11-07,15,Keyboard,Electronics,1200
+P003,2026-11-08,10,Keyboard,Electronics,1200
+P003,2026-11-09,10,Keyboard,Electronics,1200
+P003,2026-11-10,8,Keyboard,Electronics,1200
+P003,2026-11-11,8,Keyboard,Electronics,1200
+P003,2026-11-12,10,Keyboard,Electronics,1200
+P003,2026-11-13,12,Keyboard,Electronics,1200
+P003,2026-11-14,12,Keyboard,Electronics,1200
+P003,2026-11-15,10,Keyboard,Electronics,1200
+P004,2026-08-18,10,Office Chair,Furniture,5500
+P004,2026-08-19,15,Office Chair,Furniture,5500
+P004,2026-08-20,5,Office Chair,Furniture,5500
+P004,2026-08-21,12,Office Chair,Furniture,5500
+P004,2026-08-22,8,Office Chair,Furniture,5500
+P004,2026-08-23,12,Office Chair,Furniture,5500
+P004,2026-08-24,5,Office Chair,Furniture,5500
+P004,2026-08-25,5,Office Chair,Furniture,5500
+P004,2026-08-26,12,Office Chair,Furniture,5500
+P004,2026-08-27,5,Office Chair,Furniture,5500
+P004,2026-08-28,8,Office Chair,Furniture,5500
+P004,2026-08-29,15,Office Chair,Furniture,5500
+P004,2026-08-30,8,Office Chair,Furniture,5500
+P004,2026-08-31,10,Office Chair,Furniture,5500
+P004,2026-09-01,8,Office Chair,Furniture,5500
+P004,2026-09-02,10,Office Chair,Furniture,5500
+P004,2026-09-03,12,Office Chair,Furniture,5500
+P004,2026-09-04,5,Office Chair,Furniture,5500
+P004,2026-09-05,5,Office Chair,Furniture,5500
+P004,2026-09-06,5,Office Chair,Furniture,5500
+P004,2026-09-07,5,Office Chair,Furniture,5500
+P004,2026-09-08,10,Office Chair,Furniture,5500
+P004,2026-09-09,12,Office Chair,Furniture,5500
+P004,2026-09-10,12,Office Chair,Furniture,5500
+P004,2026-09-11,10,Office Chair,Furniture,5500
+P004,2026-09-12,10,Office Chair,Furniture,5500
+P004,2026-09-13,5,Office Chair,Furniture,5500
+P004,2026-09-14,10,Office Chair,Furniture,5500
+P004,2026-09-15,5,Office Chair,Furniture,5500
+P004,2026-09-16,5,Office Chair,Furniture,5500
+P004,2026-09-17,15,Office Chair,Furniture,5500
+P004,2026-09-18,8,Office Chair,Furniture,5500
+P004,2026-09-19,8,Office Chair,Furniture,5500
+P004,2026-09-20,10,Office Chair,Furniture,5500
+P004,2026-09-21,15,Office Chair,Furniture,5500
+P004,2026-09-22,12,Office Chair,Furniture,5500
+P004,2026-09-23,12,Office Chair,Furniture,5500
+P004,2026-09-24,10,Office Chair,Furniture,5500
+P004,2026-09-25,5,Office Chair,Furniture,5500
+P004,2026-09-26,5,Office Chair,Furniture,5500
+P004,2026-09-27,5,Office Chair,Furniture,5500
+P004,2026-09-28,5,Office Chair,Furniture,5500
+P004,2026-09-29,12,Office Chair,Furniture,5500
+P004,2026-09-30,8,Office Chair,Furniture,5500
+P004,2026-10-01,15,Office Chair,Furniture,5500
+P004,2026-10-02,12,Office Chair,Furniture,5500
+P004,2026-10-03,15,Office Chair,Furniture,5500
+P004,2026-10-04,12,Office Chair,Furniture,5500
+P004,2026-10-05,12,Office Chair,Furniture,5500
+P004,2026-10-06,12,Office Chair,Furniture,5500
+P004,2026-10-07,10,Office Chair,Furniture,5500
+P004,2026-10-08,15,Office Chair,Furniture,5500
+P004,2026-10-09,12,Office Chair,Furniture,5500
+P004,2026-10-10,8,Office Chair,Furniture,5500
+P004,2026-10-11,15,Office Chair,Furniture,5500
+P004,2026-10-12,5,Office Chair,Furniture,5500
+P004,2026-10-13,12,Office Chair,Furniture,5500
+P004,2026-10-14,5,Office Chair,Furniture,5500
+P004,2026-10-15,8,Office Chair,Furniture,5500
+P004,2026-10-16,5,Office Chair,Furniture,5500
+P004,2026-10-17,15,Office Chair,Furniture,5500
+P004,2026-10-18,8,Office Chair,Furniture,5500
+P004,2026-10-19,10,Office Chair,Furniture,5500
+P004,2026-10-20,8,Office Chair,Furniture,5500
+P004,2026-10-21,8,Office Chair,Furniture,5500
+P004,2026-10-22,12,Office Chair,Furniture,5500
+P004,2026-10-23,10,Office Chair,Furniture,5500
+P004,2026-10-24,8,Office Chair,Furniture,5500
+P004,2026-10-25,15,Office Chair,Furniture,5500
+P004,2026-10-26,15,Office Chair,Furniture,5500
+P004,2026-10-27,5,Office Chair,Furniture,5500
+P004,2026-10-28,15,Office Chair,Furniture,5500
+P004,2026-10-29,10,Office Chair,Furniture,5500
+P004,2026-10-30,10,Office Chair,Furniture,5500
+P004,2026-10-31,15,Office Chair,Furniture,5500
+P004,2026-11-01,10,Office Chair,Furniture,5500
+P004,2026-11-02,12,Office Chair,Furniture,5500
+P004,2026-11-03,10,Office Chair,Furniture,5500
+P004,2026-11-04,12,Office Chair,Furniture,5500
+P004,2026-11-05,15,Office Chair,Furniture,5500
+P004,2026-11-06,15,Office Chair,Furniture,5500
+P004,2026-11-07,10,Office Chair,Furniture,5500
+P004,2026-11-08,10,Office Chair,Furniture,5500
+P004,2026-11-09,8,Office Chair,Furniture,5500
+P004,2026-11-10,8,Office Chair,Furniture,5500
+P004,2026-11-11,10,Office Chair,Furniture,5500
+P004,2026-11-12,12,Office Chair,Furniture,5500
+P004,2026-11-13,12,Office Chair,Furniture,5500
+P004,2026-11-14,10,Office Chair,Furniture,5500
+P004,2026-11-15,8,Office Chair,Furniture,5500
+P005,2026-08-18,15,Desk,Furniture,7000
+P005,2026-08-19,5,Desk,Furniture,7000
+P005,2026-08-20,12,Desk,Furniture,7000
+P005,2026-08-21,8,Desk,Furniture,7000
+P005,2026-08-22,12,Desk,Furniture,7000
+P005,2026-08-23,5,Desk,Furniture,7000
+P005,2026-08-24,5,Desk,Furniture,7000
+P005,2026-08-25,12,Desk,Furniture,7000
+P005,2026-08-26,5,Desk,Furniture,7000
+P005,2026-08-27,8,Desk,Furniture,7000
+P005,2026-08-28,15,Desk,Furniture,7000
+P005,2026-08-29,8,Desk,Furniture,7000
+P005,2026-08-30,10,Desk,Furniture,7000
+P005,2026-08-31,8,Desk,Furniture,7000
+P005,2026-09-01,10,Desk,Furniture,7000
+P005,2026-09-02,12,Desk,Furniture,7000
+P005,2026-09-03,5,Desk,Furniture,7000
+P005,2026-09-04,5,Desk,Furniture,7000
+P005,2026-09-05,5,Desk,Furniture,7000
+P005,2026-09-06,5,Desk,Furniture,7000
+P005,2026-09-07,10,Desk,Furniture,7000
+P005,2026-09-08,12,Desk,Furniture,7000
+P005,2026-09-09,12,Desk,Furniture,7000
+P005,2026-09-10,10,Desk,Furniture,7000
+P005,2026-09-11,10,Desk,Furniture,7000
+P005,2026-09-12,5,Desk,Furniture,7000
+P005,2026-09-13,10,Desk,Furniture,7000
+P005,2026-09-14,5,Desk,Furniture,7000
+P005,2026-09-15,5,Desk,Furniture,7000
+P005,2026-09-16,15,Desk,Furniture,7000
+P005,2026-09-17,8,Desk,Furniture,7000
+P005,2026-09-18,8,Desk,Furniture,7000
+P005,2026-09-19,10,Desk,Furniture,7000
+P005,2026-09-20,15,Desk,Furniture,7000
+P005,2026-09-21,12,Desk,Furniture,7000
+P005,2026-09-22,12,Desk,Furniture,7000
+P005,2026-09-23,10,Desk,Furniture,7000
+P005,2026-09-24,5,Desk,Furniture,7000
+P005,2026-09-25,5,Desk,Furniture,7000
+P005,2026-09-26,5,Desk,Furniture,7000
+P005,2026-09-27,5,Desk,Furniture,7000
+P005,2026-09-28,12,Desk,Furniture,7000
+P005,2026-09-29,8,Desk,Furniture,7000
+P005,2026-09-30,15,Desk,Furniture,7000
+P005,2026-10-01,12,Desk,Furniture,7000
+P005,2026-10-02,15,Desk,Furniture,7000
+P005,2026-10-03,12,Desk,Furniture,7000
+P005,2026-10-04,12,Desk,Furniture,7000
+P005,2026-10-05,12,Desk,Furniture,7000
+P005,2026-10-06,10,Desk,Furniture,7000
+P005,2026-10-07,15,Desk,Furniture,7000
+P005,2026-10-08,12,Desk,Furniture,7000
+P005,2026-10-09,8,Desk,Furniture,7000
+P005,2026-10-10,15,Desk,Furniture,7000
+P005,2026-10-11,5,Desk,Furniture,7000
+P005,2026-10-12,12,Desk,Furniture,7000
+P005,2026-10-13,5,Desk,Furniture,7000
+P005,2026-10-14,8,Desk,Furniture,7000
+P005,2026-10-15,5,Desk,Furniture,7000
+P005,2026-10-16,15,Desk,Furniture,7000
+P005,2026-10-17,8,Desk,Furniture,7000
+P005,2026-10-18,10,Desk,Furniture,7000
+P005,2026-10-19,8,Desk,Furniture,7000
+P005,2026-10-20,8,Desk,Furniture,7000
+P005,2026-10-21,12,Desk,Furniture,7000
+P005,2026-10-22,10,Desk,Furniture,7000
+P005,2026-10-23,8,Desk,Furniture,7000
+P005,2026-10-24,15,Desk,Furniture,7000
+P005,2026-10-25,15,Desk,Furniture,7000
+P005,2026-10-26,5,Desk,Furniture,7000
+P005,2026-10-27,15,Desk,Furniture,7000
+P005,2026-10-28,10,Desk,Furniture,7000
+P005,2026-10-29,10,Desk,Furniture,7000
+P005,2026-10-30,15,Desk,Furniture,7000
+P005,2026-10-31,10,Desk,Furniture,7000
+P005,2026-11-01,12,Desk,Furniture,7000
+P005,2026-11-02,10,Desk,Furniture,7000
+P005,2026-11-03,12,Desk,Furniture,7000
+P005,2026-11-04,15,Desk,Furniture,7000
+P005,2026-11-05,15,Desk,Furniture,7000
+P005,2026-11-06,10,Desk,Furniture,7000
+P005,2026-11-07,10,Desk,Furniture,7000
+P005,2026-11-08,8,Desk,Furniture,7000
+P005,2026-11-09,8,Desk,Furniture,7000
+P005,2026-11-10,10,Desk,Furniture,7000
+P005,2026-11-11,12,Desk,Furniture,7000
+P005,2026-11-12,12,Desk,Furniture,7000
+P005,2026-11-13,10,Desk,Furniture,7000
+P005,2026-11-14,8,Desk,Furniture,7000
+P005,2026-11-15,10,Desk,Furniture,7000
+P006,2026-08-18,5,Notebook,Stationery,50
+P006,2026-08-19,12,Notebook,Stationery,50
+P006,2026-08-20,8,Notebook,Stationery,50
+P006,2026-08-21,12,Notebook,Stationery,50
+P006,2026-08-22,5,Notebook,Stationery,50
+P006,2026-08-23,5,Notebook,Stationery,50
+P006,2026-08-24,12,Notebook,Stationery,50
+P006,2026-08-25,5,Notebook,Stationery,50
+P006,2026-08-26,8,Notebook,Stationery,50
+P006,2026-08-27,15,Notebook,Stationery,50
+P006,2026-08-28,8,Notebook,Stationery,50
+P006,2026-08-29,10,Notebook,Stationery,50
+P006,2026-08-30,8,Notebook,Stationery,50
+P006,2026-08-31,10,Notebook,Stationery,50
+P006,2026-09-01,12,Notebook,Stationery,50
+P006,2026-09-02,5,Notebook,Stationery,50
+P006,2026-09-03,5,Notebook,Stationery,50
+P006,2026-09-04,5,Notebook,Stationery,50
+P006,2026-09-05,5,Notebook,Stationery,50
+P006,2026-09-06,10,Notebook,Stationery,50
+P006,2026-09-07,12,Notebook,Stationery,50
+P006,2026-09-08,12,Notebook,Stationery,50
+P006,2026-09-09,10,Notebook,Stationery,50
+P006,2026-09-10,10,Notebook,Stationery,50
+P006,2026-09-11,5,Notebook,Stationery,50
+P006,2026-09-12,10,Notebook,Stationery,50
+P006,2026-09-13,5,Notebook,Stationery,50
+P006,2026-09-14,5,Notebook,Stationery,50
+P006,2026-09-15,15,Notebook,Stationery,50
+P006,2026-09-16,8,Notebook,Stationery,50
+P006,2026-09-17,8,Notebook,Stationery,50
+P006,2026-09-18,10,Notebook,Stationery,50
+P006,2026-09-19,15,Notebook,Stationery,50
+P006,2026-09-20,12,Notebook,Stationery,50
+P006,2026-09-21,12,Notebook,Stationery,50
+P006,2026-09-22,10,Notebook,Stationery,50
+P006,2026-09-23,5,Notebook,Stationery,50
+P006,2026-09-24,5,Notebook,Stationery,50
+P006,2026-09-25,5,Notebook,Stationery,50
+P006,2026-09-26,5,Notebook,Stationery,50
+P006,2026-09-27,12,Notebook,Stationery,50
+P006,2026-09-28,8,Notebook,Stationery,50
+P006,2026-09-29,15,Notebook,Stationery,50
+P006,2026-09-30,12,Notebook,Stationery,50
+P006,2026-10-01,15,Notebook,Stationery,50
+P006,2026-10-02,12,Notebook,Stationery,50
+P006,2026-10-03,12,Notebook,Stationery,50
+P006,2026-10-04,12,Notebook,Stationery,50
+P006,2026-10-05,10,Notebook,Stationery,50
+P006,2026-10-06,15,Notebook,Stationery,50
+P006,2026-10-07,12,Notebook,Stationery,50
+P006,2026-10-08,8,Notebook,Stationery,50
+P006,2026-10-09,15,Notebook,Stationery,50
+P006,2026-10-10,5,Notebook,Stationery,50
+P006,2026-10-11,12,Notebook,Stationery,50
+P006,2026-10-12,5,Notebook,Stationery,50
+P006,2026-10-13,8,Notebook,Stationery,50
+P006,2026-10-14,5,Notebook,Stationery,50
+P006,2026-10-15,15,Notebook,Stationery,50
+P006,2026-10-16,8,Notebook,Stationery,50
+P006,2026-10-17,10,Notebook,Stationery,50
+P006,2026-10-18,8,Notebook,Stationery,50
+P006,2026-10-19,8,Notebook,Stationery,50
+P006,2026-10-20,12,Notebook,Stationery,50
+P006,2026-10-21,10,Notebook,Stationery,50
+P006,2026-10-22,8,Notebook,Stationery,50
+P006,2026-10-23,15,Notebook,Stationery,50
+P006,2026-10-24,15,Notebook,Stationery,50
+P006,2026-10-25,5,Notebook,Stationery,50
+P006,2026-10-26,15,Notebook,Stationery,50
+P006,2026-10-27,10,Notebook,Stationery,50
+P006,2026-10-28,10,Notebook,Stationery,50
+P006,2026-10-29,15,Notebook,Stationery,50
+P006,2026-10-30,10,Notebook,Stationery,50
+P006,2026-10-31,12,Notebook,Stationery,50
+P006,2026-11-01,10,Notebook,Stationery,50
+P006,2026-11-02,12,Notebook,Stationery,50
+P006,2026-11-03,15,Notebook,Stationery,50
+P006,2026-11-04,15,Notebook,Stationery,50
+P006,2026-11-05,10,Notebook,Stationery,50
+P006,2026-11-06,10,Notebook,Stationery,50
+P006,2026-11-07,8,Notebook,Stationery,50
+P006,2026-11-08,8,Notebook,Stationery,50
+P006,2026-11-09,10,Notebook,Stationery,50
+P006,2026-11-10,12,Notebook,Stationery,50
+P006,2026-11-11,12,Notebook,Stationery,50
+P006,2026-11-12,10,Notebook,Stationery,50
+P006,2026-11-13,8,Notebook,Stationery,50
+P006,2026-11-14,10,Notebook,Stationery,50
+P006,2026-11-15,5,Notebook,Stationery,50
+P007,2026-08-18,12,Pen,Stationery,10
+P007,2026-08-19,8,Pen,Stationery,10
+P007,2026-08-20,12,Pen,Stationery,10
+P007,2026-08-21,5,Pen,Stationery,10
+P007,2026-08-22,5,Pen,Stationery,10
+P007,2026-08-23,12,Pen,Stationery,10
+P007,2026-08-24,5,Pen,Stationery,10
+P007,2026-08-25,8,Pen,Stationery,10
+P007,2026-08-26,15,Pen,Stationery,10
+P007,2026-08-27,8,Pen,Stationery,10
+P007,2026-08-28,10,Pen,Stationery,10
+P007,2026-08-29,8,Pen,Stationery,10
+P007,2026-08-30,10,Pen,Stationery,10
+P007,2026-08-31,12,Pen,Stationery,10
+P007,2026-09-01,5,Pen,Stationery,10
+P007,2026-09-02,5,Pen,Stationery,10
+P007,2026-09-03,5,Pen,Stationery,10
+P007,2026-09-04,5,Pen,Stationery,10
+P007,2026-09-05,10,Pen,Stationery,10
+P007,2026-09-06,12,Pen,Stationery,10
+P007,2026-09-07,12,Pen,Stationery,10
+P007,2026-09-08,10,Pen,Stationery,10
+P007,2026-09-09,10,Pen,Stationery,10
+P007,2026-09-10,5,Pen,Stationery,10
+P007,2026-09-11,10,Pen,Stationery,10
+P007,2026-09-12,5,Pen,Stationery,10
+P007,2026-09-13,5,Pen,Stationery,10
+P007,2026-09-14,15,Pen,Stationery,10
+P007,2026-09-15,8,Pen,Stationery,10
+P007,2026-09-16,8,Pen,Stationery,10
+P007,2026-09-17,10,Pen,Stationery,10
+P007,2026-09-18,15,Pen,Stationery,10
+P007,2026-09-19,12,Pen,Stationery,10
+P007,2026-09-20,12,Pen,Stationery,10
+P007,2026-09-21,10,Pen,Stationery,10
+P007,2026-09-22,5,Pen,Stationery,10
+P007,2026-09-23,5,Pen,Stationery,10
+P007,2026-09-24,5,Pen,Stationery,10
+P007,2026-09-25,5,Pen,Stationery,10
+P007,2026-09-26,12,Pen,Stationery,10
+P007,2026-09-27,8,Pen,Stationery,10
+P007,2026-09-28,15,Pen,Stationery,10
+P007,2026-09-29,12,Pen,Stationery,10
+P007,2026-09-30,15,Pen,Stationery,10
+P007,2026-10-01,12,Pen,Stationery,10
+P007,2026-10-02,12,Pen,Stationery,10
+P007,2026-10-03,12,Pen,Stationery,10
+P007,2026-10-04,10,Pen,Stationery,10
+P007,2026-10-05,15,Pen,Stationery,10
+P007,2026-10-06,12,Pen,Stationery,10
+P007,2026-10-07,8,Pen,Stationery,10
+P007,2026-10-08,15,Pen,Stationery,10
+P007,2026-10-09,5,Pen,Stationery,10
+P007,2026-10-10,12,Pen,Stationery,10
+P007,2026-10-11,5,Pen,Stationery,10
+P007,2026-10-12,8,Pen,Stationery,10
+P007,2026-10-13,5,Pen,Stationery,10
+P007,2026-10-14,15,Pen,Stationery,10
+P007,2026-10-15,8,Pen,Stationery,10
+P007,2026-10-16,10,Pen,Stationery,10
+P007,2026-10-17,8,Pen,Stationery,10
+P007,2026-10-18,8,Pen,Stationery,10
+P007,2026-10-19,12,Pen,Stationery,10
+P007,2026-10-20,10,Pen,Stationery,10
+P007,2026-10-21,8,Pen,Stationery,10
+P007,2026-10-22,15,Pen,Stationery,10
+P007,2026-10-23,15,Pen,Stationery,10
+P007,2026-10-24,5,Pen,Stationery,10
+P007,2026-10-25,15,Pen,Stationery,10
+P007,2026-10-26,10,Pen,Stationery,10
+P007,2026-10-27,10,Pen,Stationery,10
+P007,2026-10-28,15,Pen,Stationery,10
+P007,2026-10-29,10,Pen,Stationery,10
+P007,2026-10-30,12,Pen,Stationery,10
+P007,2026-10-31,10,Pen,Stationery,10
+P007,2026-11-01,12,Pen,Stationery,10
+P007,2026-11-02,15,Pen,Stationery,10
+P007,2026-11-03,15,Pen,Stationery,10
+P007,2026-11-04,10,Pen,Stationery,10
+P007,2026-11-05,10,Pen,Stationery,10
+P007,2026-11-06,8,Pen,Stationery,10
+P007,2026-11-07,8,Pen,Stationery,10
+P007,2026-11-08,10,Pen,Stationery,10
+P007,2026-11-09,12,Pen,Stationery,10
+P007,2026-11-10,12,Pen,Stationery,10
+P007,2026-11-11,10,Pen,Stationery,10
+P007,2026-11-12,8,Pen,Stationery,10
+P007,2026-11-13,10,Pen,Stationery,10
+P007,2026-11-14,5,Pen,Stationery,10
+P007,2026-11-15,10,Pen,Stationery,10
+P008,2026-08-18,8,Printer,Electronics,12000
+P008,2026-08-19,12,Printer,Electronics,12000
+P008,2026-08-20,5,Printer,Electronics,12000
+P008,2026-08-21,5,Printer,Electronics,12000
+P008,2026-08-22,12,Printer,Electronics,12000
+P008,2026-08-23,5,Printer,Electronics,12000
+P008,2026-08-24,8,Printer,Electronics,12000
+P008,2026-08-25,15,Printer,Electronics,12000
+P008,2026-08-26,8,Printer,Electronics,12000
+P008,2026-08-27,10,Printer,Electronics,12000
+P008,2026-08-28,8,Printer,Electronics,12000
+P008,2026-08-29,10,Printer,Electronics,12000
+P008,2026-08-30,12,Printer,Electronics,12000
+P008,2026-08-31,5,Printer,Electronics,12000
+P008,2026-09-01,5,Printer,Electronics,12000
+P008,2026-09-02,5,Printer,Electronics,12000
+P008,2026-09-03,5,Printer,Electronics,12000
+P008,2026-09-04,10,Printer,Electronics,12000
+P008,2026-09-05,12,Printer,Electronics,12000
+P008,2026-09-06,12,Printer,Electronics,12000
+P008,2026-09-07,10,Printer,Electronics,12000
+P008,2026-09-08,10,Printer,Electronics,12000
+P008,2026-09-09,5,Printer,Electronics,12000
+P008,2026-09-10,10,Printer,Electronics,12000
+P008,2026-09-11,5,Printer,Electronics,12000
+P008,2026-09-12,5,Printer,Electronics,12000
+P008,2026-09-13,15,Printer,Electronics,12000
+P008,2026-09-14,8,Printer,Electronics,12000
+P008,2026-09-15,8,Printer,Electronics,12000
+P008,2026-09-16,10,Printer,Electronics,12000
+P008,2026-09-17,15,Printer,Electronics,12000
+P008,2026-09-18,12,Printer,Electronics,12000
+P008,2026-09-19,12,Printer,Electronics,12000
+P008,2026-09-20,10,Printer,Electronics,12000
+P008,2026-09-21,5,Printer,Electronics,12000
+P008,2026-09-22,5,Printer,Electronics,12000
+P008,2026-09-23,5,Printer,Electronics,12000
+P008,2026-09-24,5,Printer,Electronics,12000
+P008,2026-09-25,12,Printer,Electronics,12000
+P008,2026-09-26,8,Printer,Electronics,12000
+P008,2026-09-27,15,Printer,Electronics,12000
+P008,2026-09-28,12,Printer,Electronics,12000
+P008,2026-09-29,15,Printer,Electronics,12000
+P008,2026-09-30,12,Printer,Electronics,12000
+P008,2026-10-01,12,Printer,Electronics,12000
+P008,2026-10-02,12,Printer,Electronics,12000
+P008,2026-10-03,10,Printer,Electronics,12000
+P008,2026-10-04,15,Printer,Electronics,12000
+P008,2026-10-05,12,Printer,Electronics,12000
+P008,2026-10-06,8,Printer,Electronics,12000
+P008,2026-10-07,15,Printer,Electronics,12000
+P008,2026-10-08,5,Printer,Electronics,12000
+P008,2026-10-09,12,Printer,Electronics,12000
+P008,2026-10-10,5,Printer,Electronics,12000
+P008,2026-10-11,8,Printer,Electronics,12000
+P008,2026-10-12,5,Printer,Electronics,12000
+P008,2026-10-13,15,Printer,Electronics,12000
+P008,2026-10-14,8,Printer,Electronics,12000
+P008,2026-10-15,10,Printer,Electronics,12000
+P008,2026-10-16,8,Printer,Electronics,12000
+P008,2026-10-17,8,Printer,Electronics,12000
+P008,2026-10-18,12,Printer,Electronics,12000
+P008,2026-10-19,10,Printer,Electronics,12000
+P008,2026-10-20,8,Printer,Electronics,12000
+P008,2026-10-21,15,Printer,Electronics,12000
+P008,2026-10-22,15,Printer,Electronics,12000
+P008,2026-10-23,5,Printer,Electronics,12000
+P008,2026-10-24,15,Printer,Electronics,12000
+P008,2026-10-25,10,Printer,Electronics,12000
+P008,2026-10-26,10,Printer,Electronics,12000
+P008,2026-10-27,15,Printer,Electronics,12000
+P008,2026-10-28,10,Printer,Electronics,12000
+P008,2026-10-29,12,Printer,Electronics,12000
+P008,2026-10-30,10,Printer,Electronics,12000
+P008,2026-10-31,12,Printer,Electronics,12000
+P008,2026-11-01,15,Printer,Electronics,12000
+P008,2026-11-02,15,Printer,Electronics,12000
+P008,2026-11-03,10,Printer,Electronics,12000
+P008,2026-11-04,10,Printer,Electronics,12000
+P008,2026-11-05,8,Printer,Electronics,12000
+P008,2026-11-06,8,Printer,Electronics,12000
+P008,2026-11-07,10,Printer,Electronics,12000
+P008,2026-11-08,12,Printer,Electronics,12000
+P008,2026-11-09,12,Printer,Electronics,12000
+P008,2026-11-10,10,Printer,Electronics,12000
+P008,2026-11-11,8,Printer,Electronics,12000
+P008,2026-11-12,10,Printer,Electronics,12000
+P008,2026-11-13,5,Printer,Electronics,12000
+P008,2026-11-14,10,Printer,Electronics,12000
+P008,2026-11-15,15,Printer,Electronics,12000
+P009,2026-08-18,12,Monitor,Electronics,15000
+P009,2026-08-19,5,Monitor,Electronics,15000
+P009,2026-08-20,5,Monitor,Electronics,15000
+P009,2026-08-21,12,Monitor,Electronics,15000
+P009,2026-08-22,5,Monitor,Electronics,15000
+P009,2026-08-23,8,Monitor,Electronics,15000
+P009,2026-08-24,15,Monitor,Electronics,15000
+P009,2026-08-25,8,Monitor,Electronics,15000
+P009,2026-08-26,10,Monitor,Electronics,15000
+P009,2026-08-27,8,Monitor,Electronics,15000
+P009,2026-08-28,10,Monitor,Electronics,15000
+P009,2026-08-29,12,Monitor,Electronics,15000
+P009,2026-08-30,5,Monitor,Electronics,15000
+P009,2026-08-31,5,Monitor,Electronics,15000
+P009,2026-09-01,5,Monitor,Electronics,15000
+P009,2026-09-02,5,Monitor,Electronics,15000
+P009,2026-09-03,10,Monitor,Electronics,15000
+P009,2026-09-04,12,Monitor,Electronics,15000
+P009,2026-09-05,12,Monitor,Electronics,15000
+P009,2026-09-06,10,Monitor,Electronics,15000
+P009,2026-09-07,10,Monitor,Electronics,15000
+P009,2026-09-08,5,Monitor,Electronics,15000
+P009,2026-09-09,10,Monitor,Electronics,15000
+P009,2026-09-10,5,Monitor,Electronics,15000
+P009,2026-09-11,5,Monitor,Electronics,15000
+P009,2026-09-12,15,Monitor,Electronics,15000
+P009,2026-09-13,8,Monitor,Electronics,15000
+P009,2026-09-14,8,Monitor,Electronics,15000
+P009,2026-09-15,10,Monitor,Electronics,15000
+P009,2026-09-16,15,Monitor,Electronics,15000
+P009,2026-09-17,12,Monitor,Electronics,15000
+P009,2026-09-18,12,Monitor,Electronics,15000
+P009,2026-09-19,10,Monitor,Electronics,15000
+P009,2026-09-20,5,Monitor,Electronics,15000
+P009,2026-09-21,5,Monitor,Electronics,15000
+P009,2026-09-22,5,Monitor,Electronics,15000
+P009,2026-09-23,5,Monitor,Electronics,15000
+P009,2026-09-24,12,Monitor,Electronics,15000
+P009,2026-09-25,8,Monitor,Electronics,15000
+P009,2026-09-26,15,Monitor,Electronics,15000
+P009,2026-09-27,12,Monitor,Electronics,15000
+P009,2026-09-28,15,Monitor,Electronics,15000
+P009,2026-09-29,12,Monitor,Electronics,15000
+P009,2026-09-30,12,Monitor,Electronics,15000
+P009,2026-10-01,12,Monitor,Electronics,15000
+P009,2026-10-02,10,Monitor,Electronics,15000
+P009,2026-10-03,15,Monitor,Electronics,15000
+P009,2026-10-04,12,Monitor,Electronics,15000
+P009,2026-10-05,8,Monitor,Electronics,15000
+P009,2026-10-06,15,Monitor,Electronics,15000
+P009,2026-10-07,5,Monitor,Electronics,15000
+P009,2026-10-08,12,Monitor,Electronics,15000
+P009,2026-10-09,5,Monitor,Electronics,15000
+P009,2026-10-10,8,Monitor,Electronics,15000
+P009,2026-10-11,5,Monitor,Electronics,15000
+P009,2026-10-12,15,Monitor,Electronics,15000
+P009,2026-10-13,8,Monitor,Electronics,15000
+P009,2026-10-14,10,Monitor,Electronics,15000
+P009,2026-10-15,8,Monitor,Electronics,15000
+P009,2026-10-16,8,Monitor,Electronics,15000
+P009,2026-10-17,12,Monitor,Electronics,15000
+P009,2026-10-18,10,Monitor,Electronics,15000
+P009,2026-10-19,8,Monitor,Electronics,15000
+P009,2026-10-20,15,Monitor,Electronics,15000
+P009,2026-10-21,15,Monitor,Electronics,15000
+P009,2026-10-22,5,Monitor,Electronics,15000
+P009,2026-10-23,15,Monitor,Electronics,15000
+P009,2026-10-24,10,Monitor,Electronics,15000
+P009,2026-10-25,10,Monitor,Electronics,15000
+P009,2026-10-26,15,Monitor,Electronics,15000
+P009,2026-10-27,10,Monitor,Electronics,15000
+P009,2026-10-28,12,Monitor,Electronics,15000
+P009,2026-10-29,10,Monitor,Electronics,15000
+P009,2026-10-30,12,Monitor,Electronics,15000
+P009,2026-10-31,15,Monitor,Electronics,15000
+P009,2026-11-01,15,Monitor,Electronics,15000
+P009,2026-11-02,10,Monitor,Electronics,15000
+P009,2026-11-03,10,Monitor,Electronics,15000
+P009,2026-11-04,8,Monitor,Electronics,15000
+P009,2026-11-05,8,Monitor,Electronics,15000
+P009,2026-11-06,10,Monitor,Electronics,15000
+P009,2026-11-07,12,Monitor,Electronics,15000
+P009,2026-11-08,12,Monitor,Electronics,15000
+P009,2026-11-09,10,Monitor,Electronics,15000
+P009,2026-11-10,8,Monitor,Electronics,15000
+P009,2026-11-11,10,Monitor,Electronics,15000
+P009,2026-11-12,5,Monitor,Electronics,15000
+P009,2026-11-13,10,Monitor,Electronics,15000
+P009,2026-11-14,15,Monitor,Electronics,15000
+P009,2026-11-15,5,Monitor,Electronics,15000
+P010,2026-08-18,5,Bookshelf,Furniture,4000
+P010,2026-08-19,5,Bookshelf,Furniture,4000
+P010,2026-08-20,12,Bookshelf,Furniture,4000
+P010,2026-08-21,5,Bookshelf,Furniture,4000
+P010,2026-08-22,8,Bookshelf,Furniture,4000
+P010,2026-08-23,15,Bookshelf,Furniture,4000
+P010,2026-08-24,8,Bookshelf,Furniture,4000
+P010,2026-08-25,10,Bookshelf,Furniture,4000
+P010,2026-08-26,8,Bookshelf,Furniture,4000
+P010,2026-08-27,10,Bookshelf,Furniture,4000
+P010,2026-08-28,12,Bookshelf,Furniture,4000
+P010,2026-08-29,5,Bookshelf,Furniture,4000
+P010,2026-08-30,5,Bookshelf,Furniture,4000
+P010,2026-08-31,5,Bookshelf,Furniture,4000
+P010,2026-09-01,5,Bookshelf,Furniture,4000
+P010,2026-09-02,10,Bookshelf,Furniture,4000
+P010,2026-09-03,12,Bookshelf,Furniture,4000
+P010,2026-09-04,12,Bookshelf,Furniture,4000
+P010,2026-09-05,10,Bookshelf,Furniture,4000
+P010,2026-09-06,10,Bookshelf,Furniture,4000
+P010,2026-09-07,5,Bookshelf,Furniture,4000
+P010,2026-09-08,10,Bookshelf,Furniture,4000
+P010,2026-09-09,5,Bookshelf,Furniture,4000
+P010,2026-09-10,5,Bookshelf,Furniture,4000
+P010,2026-09-11,15,Bookshelf,Furniture,4000
+P010,2026-09-12,8,Bookshelf,Furniture,4000
+P010,2026-09-13,8,Bookshelf,Furniture,4000
+P010,2026-09-14,10,Bookshelf,Furniture,4000
+P010,2026-09-15,15,Bookshelf,Furniture,4000
+P010,2026-09-16,12,Bookshelf,Furniture,4000
+P010,2026-09-17,12,Bookshelf,Furniture,4000
+P010,2026-09-18,10,Bookshelf,Furniture,4000
+P010,2026-09-19,5,Bookshelf,Furniture,4000
+P010,2026-09-20,5,Bookshelf,Furniture,4000
+P010,2026-09-21,5,Bookshelf,Furniture,4000
+P010,2026-09-22,5,Bookshelf,Furniture,4000
+P010,2026-09-23,12,Bookshelf,Furniture,4000
+P010,2026-09-24,8,Bookshelf,Furniture,4000
+P010,2026-09-25,15,Bookshelf,Furniture,4000
+P010,2026-09-26,12,Bookshelf,Furniture,4000
+P010,2026-09-27,15,Bookshelf,Furniture,4000
+P010,2026-09-28,12,Bookshelf,Furniture,4000
+P010,2026-09-29,12,Bookshelf,Furniture,4000
+P010,2026-09-30,12,Bookshelf,Furniture,4000
+P010,2026-10-01,10,Bookshelf,Furniture,4000
+P010,2026-10-02,15,Bookshelf,Furniture,4000
+P010,2026-10-03,12,Bookshelf,Furniture,4000
+P010,2026-10-04,8,Bookshelf,Furniture,4000
+P010,2026-10-05,15,Bookshelf,Furniture,4000
+P010,2026-10-06,5,Bookshelf,Furniture,4000
+P010,2026-10-07,12,Bookshelf,Furniture,4000
+P010,2026-10-08,5,Bookshelf,Furniture,4000
+P010,2026-10-09,8,Bookshelf,Furniture,4000
+P010,2026-10-10,5,Bookshelf,Furniture,4000
+P010,2026-10-11,15,Bookshelf,Furniture,4000
+P010,2026-10-12,8,Bookshelf,Furniture,4000
+P010,2026-10-13,10,Bookshelf,Furniture,4000
+P010,2026-10-14,8,Bookshelf,Furniture,4000
+P010,2026-10-15,8,Bookshelf,Furniture,4000
+P010,2026-10-16,12,Bookshelf,Furniture,4000
+P010,2026-10-17,10,Bookshelf,Furniture,4000
+P010,2026-10-18,8,Bookshelf,Furniture,4000
+P010,2026-10-19,15,Bookshelf,Furniture,4000
+P010,2026-10-20,15,Bookshelf,Furniture,4000
+P010,2026-10-21,5,Bookshelf,Furniture,4000
+P010,2026-10-22,15,Bookshelf,Furniture,4000
+P010,2026-10-23,10,Bookshelf,Furniture,4000
+P010,2026-10-24,10,Bookshelf,Furniture,4000
+P010,2026-10-25,15,Bookshelf,Furniture,4000
+P010,2026-10-26,10,Bookshelf,Furniture,4000
+P010,2026-10-27,12,Bookshelf,Furniture,4000
+P010,2026-10-28,10,Bookshelf,Furniture,4000
+P010,2026-10-29,12,Bookshelf,Furniture,4000
+P010,2026-10-30,15,Bookshelf,Furniture,4000
+P010,2026-10-31,15,Bookshelf,Furniture,4000
+P010,2026-11-01,10,Bookshelf,Furniture,4000
+P010,2026-11-02,10,Bookshelf,Furniture,4000
+P010,2026-11-03,8,Bookshelf,Furniture,4000
+P010,2026-11-04,8,Bookshelf,Furniture,4000
+P010,2026-11-05,10,Bookshelf,Furniture,4000
+P010,2026-11-06,12,Bookshelf,Furniture,4000
+P010,2026-11-07,12,Bookshelf,Furniture,4000
+P010,2026-11-08,10,Bookshelf,Furniture,4000
+P010,2026-11-09,8,Bookshelf,Furniture,4000
+P010,2026-11-10,10,Bookshelf,Furniture,4000
+P010,2026-11-11,5,Bookshelf,Furniture,4000
+P010,2026-11-12,10,Bookshelf,Furniture,4000
+P010,2026-11-13,15,Bookshelf,Furniture,4000
+P010,2026-11-14,5,Bookshelf,Furniture,4000
+P010,2026-11-15,12,Bookshelf,Furniture,4000

@@ -1,0 +1,10 @@
+dataset,issue,record_count
+products,Duplicate product_id,0
+suppliers,Duplicate supplier_id,0
+inventory,Duplicate inventory_id,0
+purchase_orders,Duplicate order_id,0
+shipments,Duplicate shipment_id,0
+sales,Rejected records,0
+inventory,Rejected records,0
+purchase_orders,Rejected records,0
+shipments,Rejected records,0

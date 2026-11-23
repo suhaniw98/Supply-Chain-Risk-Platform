@@ -1,0 +1,6 @@
+supplier_id,supplier_name,lead_time,status
+S001,ABC Suppliers,5,Active
+S002,Global Traders,7,Active
+S003,Reliable Distributors,4,Active
+S004,Metro Wholesale,10,Active
+S005,Prime Logistics,6,Active
